@@ -1,0 +1,1 @@
+{"version":3,"file":"create-district.dto.js","sourceRoot":"","sources":["../../../src/district/dto/create-district.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,6CAA8C;AAE9C,MAAa,iBAAiB;CAkB7B;AAlBD,8CAkBC;AARC;IATC,IAAA,qBAAW,EAAC;QACX,OAAO,EAAE,WAAW;QACpB,WAAW,EAAE,eAAe;KAC7B,CAAC;;+CAMW;AAOb;IALC,IAAA,qBAAW,EAAC;QACX,OAAO,EAAE,CAAC;QACV,WAAW,EAAE,wCAAwC;KACtD,CAAC;;mDAEe"}
